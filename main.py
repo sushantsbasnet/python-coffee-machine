@@ -1,3 +1,6 @@
+"""Python Application for Coffee Machine"""
+
+
 MENU = {
     "espresso": {
         "ingredients": {
